@@ -97,7 +97,7 @@ export default function Home() {
             Download Movies Faster
           </h2>
           <p>
-            Download Movies AdFree , get your download started in lass than 10
+            Download Movies AdFree , get your download started in less than 10
             seconds
           </p>
           <p class="love">Made with <i className="fa fa-heart fa-2x"></i> by <a className="" style={{ "fontSize": "20px" }} href="https://github.com/21toffy">Toffy</a> and <a className="" style={{ "fontSize": "20px" }}   href="https://github.com/alsaheem">Alsaheem</a></p>
