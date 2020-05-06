@@ -137,8 +137,8 @@ export default function Home() {
                 <div className="col-sm-6 col-lg-4 mb-4" key={index}>
                   <div className="card rounded shadow">
                     <div className="card-body">
-                      <h5 className="card-title">{movie[0][1]}</h5>
-                      <p className="card-text">{movie[0][7]}</p>
+                      <h5 className="card-title text-capitalize font-weignt-bold">{movie[0][1]}</h5>
+                      <p className="card-text text-dark">{movie[0][7]}</p>
                       <button
                         className="btn btn-primary"
                         onClick={() => {
